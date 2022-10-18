@@ -1,6 +1,6 @@
 package vengat1;
 
-public class Car {
+class Car {
 String brand;
 int price;
 String color;
